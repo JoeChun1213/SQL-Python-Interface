@@ -65,4 +65,5 @@ select StdNo, StdFirstName, StdGPA from Student
 8. 876543210    CRISTOPHER     4.0
 9. 890123456          LUKE     2.2
 10  901234567       WILLIAM     3.8
+
 Do you want to continue Y or N: N
