@@ -51,16 +51,18 @@ Enter groupby condition if there is one
 Enter the orderby condition if any .., 
 
 select StdNo, StdFirstName, StdGPA from Student
+
+
         StdNo  StdFirstName  StdGPA
-0   123456789         HOMER     3.0
-1   124567890           BOB     2.7
-2   234567890         CANDY     3.5
-3   345678901         WALLY     2.8
-4   456789012           JOE     3.2
-5   567890123        MARIAH     3.6
-6   678901234          TESS     3.3
-7   789012345       ROBERTO     2.5
-8   876543210    CRISTOPHER     4.0
-9   890123456          LUKE     2.2
+0. 123456789         HOMER     3.0
+1. 124567890           BOB     2.7
+2. 234567890         CANDY     3.5
+3. 345678901         WALLY     2.8
+4. 456789012           JOE     3.2
+5. 567890123        MARIAH     3.6
+6. 678901234          TESS     3.3
+7. 789012345       ROBERTO     2.5
+8. 876543210    CRISTOPHER     4.0
+9. 890123456          LUKE     2.2
 10  901234567       WILLIAM     3.8
 Do you want to continue Y or N: N
